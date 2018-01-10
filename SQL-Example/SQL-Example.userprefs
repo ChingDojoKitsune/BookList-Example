@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{5B0D5B5E-5B4D-4C4F-920D-1C9AE4B630CE}|Default">
+  <MonoDevelop.Ide.ItemProperties.SQL-Example>
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.SQL-Example>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SQL-Example/AppDelegate.cs">
+    <Files>
+      <File FileName="SQL-Example/AppDelegate.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
